@@ -21,4 +21,8 @@ maseter
 hhheheh
 mon lobe me
 master second
+<<<<<<< HEAD
 master geng
+=======
+geng geng
+>>>>>>> geng
